@@ -1,0 +1,25 @@
+.container {
+  margin: 0 auto !important;
+  text-align: center;
+  word-wrap: break-word;
+  padding: 100px;
+}
+
+.title {
+  margin: 0 0 90px !important;
+}
+.title .title-name {
+  font-size: 37px;
+}
+.title hr {
+  width: 29.8rem;
+  border: solid 1px rgb(83, 83, 83);
+  border-top-right-radius: 100%;
+  border-bottom-left-radius: 100%;
+}
+
+.distance {
+  margin-top: 100px;
+}
+
+/*# sourceMappingURL=container.css.map */
