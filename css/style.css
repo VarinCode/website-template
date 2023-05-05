@@ -182,23 +182,23 @@ header .header-info button {
   width: 100%;
   height: 40px;
 }
-.fa-container .fa-socia {
+.fa-container .fa-social {
   cursor: pointer;
   display: flex;
 }
-.fa-container .fa-socia .fa-nbg {
+.fa-container .fa-social .fa-nbg {
   cursor: default;
   display: flex;
   justify-content: center;
   align-items: center;
   margin-left: 13px;
 }
-.fa-container .fa-socia .fa-nbg .fa-line {
+.fa-container .fa-social .fa-nbg .fa-line {
   width: 18rem;
   height: 2.67px;
   background-color: #111111;
 }
-.fa-container .fa-socia .fa-bg {
+.fa-container .fa-social .fa-bg {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -208,13 +208,13 @@ header .header-info button {
   border-radius: 100%;
   margin: 0 6px;
 }
-.fa-container .fa-socia .fa-bg i {
+.fa-container .fa-social .fa-bg i {
   color: #f0f0f0;
   margin: 0 10px;
   font-size: 26px;
   transition: all 0.23s ease;
 }
-.fa-container .fa-socia .fa-bg i:hover {
+.fa-container .fa-social .fa-bg i:hover {
   color: rgb(91, 214, 252);
 }
 
